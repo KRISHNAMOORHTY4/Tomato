@@ -1,0 +1,22 @@
+.Main{
+    display: flex;
+    justify-content: center;
+   
+   
+}
+.inner{
+    background-color: whitesmoke;
+    width: 400px;
+    height: 400px;
+   margin-top: 20px;
+}
+.inner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    flex-direction: column;
+}
+#demo{
+    background-color: whitesmoke;
+}
